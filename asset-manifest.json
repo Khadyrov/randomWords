@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/randomWords/static/css/main.e5aaf5b2.css",
+    "main.js": "/randomWords/static/js/main.3130ba9f.js",
+    "static/media/768px-OOjs_UI_icon_reload_flipX.svg.png": "/randomWords/static/media/768px-OOjs_UI_icon_reload_flipX.svg.149361ca10f336102805.png",
+    "index.html": "/randomWords/index.html",
+    "main.e5aaf5b2.css.map": "/randomWords/static/css/main.e5aaf5b2.css.map",
+    "main.3130ba9f.js.map": "/randomWords/static/js/main.3130ba9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5aaf5b2.css",
+    "static/js/main.3130ba9f.js"
+  ]
+}
